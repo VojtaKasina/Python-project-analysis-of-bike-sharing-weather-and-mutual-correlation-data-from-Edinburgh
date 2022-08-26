@@ -1,6 +1,6 @@
 Python projekt - Bike sharing Edinburgh
 
-Python projekt: Zpracování datových výstupů (tabulek, grafů, map a textových komentářů) z datových podkladů o výpůjčkách sdílených kol/ kolových stanic a počasí v Edinburghu. 
+Python projekt: Zpracování datových výstupů (kódu, tabulek, grafů, map a textových komentářů) z datových podkladů o výpůjčkách sdílených kol/ kolových stanic a počasí v Edinburghu. 
 
 Zdrojová data:
 Databáze Engeto - edinburgh_bikes
@@ -12,7 +12,8 @@ Zadání projektu – klíčové body k zjištění:
 3.	Identifikace stanic, na kt. se kola hromadí
 4.	Identifikace stanic, na kt. kola potenciálně chybí
 5.	Spočítání vzdálenosti mezi jednotlivými stanicemi
-6.	Doba jedné výpůjčky ( a. jak dlouho trvá 1 výpůjčka? b. nalezení odlehlých hodnot a zobrazení histogramu)
+6.	Průměrná doba jedné výpůjčky (A.  jak dlouho trvá 1 výpůjčka? B. nalezení odlehlých hodnot a C. zobrazení histogramu)
+
 7.	Zobrazení vývoje poptávky po půjčování kol v čase
 8.	Zodpovězení otázky, zda si lidé půjčují kola více o víkendu než během pracovního týdne?
 9.	Zjištění vlivu počasí na poptávku po kolech a identifikace příčiny výkyvů poptávky
