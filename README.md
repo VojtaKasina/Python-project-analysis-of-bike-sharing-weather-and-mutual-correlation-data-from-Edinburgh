@@ -3,8 +3,7 @@ Python projekt - Bike sharing Edinburgh
 Python projekt: Zpracování datových výstupů (kódu, tabulek, grafů, map a textových komentářů) z datových podkladů o výpůjčkách sdílených kol/ kolových stanic a počasí v Edinburghu. 
 
 Zdrojová data:
-Databáze Engeto - edinburgh_bikes
-Databáze Engeto - edinburgh_weather
+Databáze Engeto - edinburgh_bikes a edinburgh_weather
 
 Zadání projektu – klíčové body k zjištění:
 1.	Identifikace aktivních a neaktivních stanic
